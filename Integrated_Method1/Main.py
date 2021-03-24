@@ -1,5 +1,4 @@
 #Software for Lane Detection Prototype I 
-#Author: Saranyaa Suresh, Juliet Eldo, Subhaga Kannan, Dhanush Lingeswaran
 #Description: The Prototype I SW detects the straight lanes in which the Autonomous vehicle is driving. 
 #Canny filter works with fixed thresholds. This has to be checked if it works with real-time data. Fine tuning has to be done incase of failure.
 #The Region of lanes being present, length and angles of the lanes are taken from calibration data.
