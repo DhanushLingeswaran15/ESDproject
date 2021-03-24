@@ -22,7 +22,6 @@ Method 2
 
 Output
 -------
+![image](https://user-images.githubusercontent.com/74680270/112334958-20628580-8cbc-11eb-9df1-beea4978da05.png)
 
-
-![Uploading image.png…]()
 
